@@ -73,51 +73,51 @@ P_Tran_date    : Transaction Date (Date)
 finacle-jasper-reports-tutorial/
 +-- README.md                                    # This file
 +-- LICENSE                                      # MIT License
-¦
+Â¦
 +-- 01_example_report/                           # Working Example
-¦   +-- LOAN_RECOVERY_DETAILS2001.jrxml          # Complete report file
-¦   +-- report_overview.md                       # Detailed explanation
-¦   +-- sample_output.pdf                        # Expected output
-¦
+Â¦   +-- LOAN_RECOVERY_DETAILS2001.jrxml          # Complete report file
+Â¦   +-- report_overview.md                       # Detailed explanation
+Â¦   +-- sample_output.pdf                        # Expected output
+Â¦
 +-- 02_stored_procedure/                         # Backend Code
-¦   +-- FINPACK_DMD_FLOWS.sql                    # Package specification
-¦   +-- FINPROC_DMD_FLOWS.sql                    # Stored procedure
-¦   +-- sample_tables.sql                        # Sample schema
-¦   +-- test_data.sql                            # Dummy test data
-¦
+Â¦   +-- FINPACK_DMD_FLOWS.sql                    # Package specification
+Â¦   +-- FINPROC_DMD_FLOWS.sql                    # Stored procedure
+Â¦   +-- sample_tables.sql                        # Sample schema
+Â¦   +-- test_data.sql                            # Dummy test data
+Â¦
 +-- 03_deployment/                               # Deployment Scripts
-¦   +-- deploy_finrpt.sh                         # Deployment script
-¦   +-- chmod_commands.txt                       # File permissions
-¦   +-- directory_structure.txt                  # Server paths
-¦   +-- deployment_guide.md                      # Step-by-step guide
-¦
+Â¦   +-- deploy_finrpt.sh                         # Deployment script
+Â¦   +-- chmod_commands.txt                       # File permissions
+Â¦   +-- directory_structure.txt                  # Server paths
+Â¦   +-- deployment_guide.md                      # Step-by-step guide
+Â¦
 +-- 04_finacle_configuration/                    # Frontend Setup
-¦   +-- finrptc_setup.md                         # Menu FINRPTC guide
-¦   +-- role_assignment.md                       # Access control
-¦   +-- testing_procedure.md                     # FINRPT testing
-¦
+Â¦   +-- finrptc_setup.md                         # Menu FINRPTC guide
+Â¦   +-- role_assignment.md                       # Access control
+Â¦   +-- testing_procedure.md                     # FINRPT testing
+Â¦
 +-- 05_design_tutorial/                          # iReport Designer
-¦   +-- step_by_step_guide.md                    # Complete tutorial
-¦   +-- ireport_setup.md                         # Tool installation
-¦   +-- spbx_proc_framework.md                   # Framework explanation
-¦   +-- design_best_practices.md                 # Tips and tricks
-¦
+Â¦   +-- step_by_step_guide.md                    # Complete tutorial
+Â¦   +-- ireport_setup.md                         # Tool installation
+Â¦   +-- spbx_proc_framework.md                   # Framework explanation
+Â¦   +-- design_best_practices.md                 # Tips and tricks
+Â¦
 +-- screenshots/                                 # Visual Documentation
-¦   +-- 01_ireport_wizard.png
-¦   +-- 02_spbx_selection.png
-¦   +-- 03_stored_procedure_mapping.png
-¦   +-- 04_field_configuration.png
-¦   +-- 05_report_layout.png
-¦   +-- 06_putty_deployment.png
-¦   +-- 07_finrptc_configuration.png
-¦   +-- 08_role_assignment.png
-¦   +-- 09_final_report_output.png
-¦
+Â¦   +-- 01_ireport_wizard.png
+Â¦   +-- 02_spbx_selection.png
+Â¦   +-- 03_stored_procedure_mapping.png
+Â¦   +-- 04_field_configuration.png
+Â¦   +-- 05_report_layout.png
+Â¦   +-- 06_putty_deployment.png
+Â¦   +-- 07_finrptc_configuration.png
+Â¦   +-- 08_role_assignment.png
+Â¦   +-- 09_final_report_output.png
+Â¦
 +-- templates/                                   # Reusable Templates
-¦   +-- blank_finacle_report.jrxml               # Starting template
-¦   +-- report_header_template.jrxml             # Standard header
-¦   +-- stored_procedure_template.sql            # SP structure
-¦
+Â¦   +-- blank_finacle_report.jrxml               # Starting template
+Â¦   +-- report_header_template.jrxml             # Standard header
+Â¦   +-- stored_procedure_template.sql            # SP structure
+Â¦
 +-- docs/                                        # Additional Docs
     +-- finacle_report_configuration_guide.md    # Original PDF converted
     +-- prerequisites.md                         # Requirements
